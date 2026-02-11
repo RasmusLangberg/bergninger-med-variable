@@ -21,8 +21,8 @@
             bool doublebonus = kastnr1 == kastnr2; 
 
 
-            Console.WriteLine($"Ryk nu {sum} felter frem, hvis du passere start for du 4000kr");
-            Console.WriteLine($"er der dobbelt bonus på slaget? {(doublebonus ? "ja" : "nj")}");
+            Console.WriteLine($"Ryk nu {sum} felter frem, hvis du passere start får du 4000kr");
+            Console.WriteLine($"er der dobbelt bonus på slaget? {(doublebonus ? "ja" : "nej")}");
            
 
 
