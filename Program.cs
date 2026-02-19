@@ -23,8 +23,9 @@
 
             Console.WriteLine($"Ryk nu {sum} felter frem, hvis du passere start får du 4000kr");
             Console.WriteLine($"er der dobbelt bonus på slaget? {(doublebonus ? "ja" : "nej")}");
-           
 
+
+            Console.WriteLine($"Ryk nu {sum} felter frem, hvis du passere start får du 4000kr");
 
 
 
